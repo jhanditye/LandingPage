@@ -28,10 +28,10 @@ Users should be able to:
   - The email address is not formatted correctly
 
 Important Checks 
-[x] Is the webiste accessible? (Check)
-[x] Is the final user interface easy to interact with? (Check)
-[x] Has all code been refactored to ease maintanence and readability? (Check)
-[] Have CSS adjustments been made to the code for different browsers?
+-Is the webiste accessible? (Check)
+- Is the final user interface easy to interact with? (Check)
+- Has all code been refactored to ease maintanence and readability? (Check)
+- Have CSS adjustments been made to the code for different browsers?
 
 
 ### Screenshot
@@ -68,7 +68,7 @@ Instead of using three spans and movinga round with absolute position, instead m
 
 ## Author
 Feel free to contact me if you'd like to work on this with me or just want to talk about web development in general!
-- Frontend Mentor - [@jhanditye]
+- Frontend Mentor - @jhanditye
 
 
 
