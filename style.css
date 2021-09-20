@@ -1,4 +1,4 @@
-
+    
 /* Center Flex Objects */
 
 .btn,#menu-btn,.mobile-drop-menu.open ul,.mobile-drop-menu.open,.hero-text,.hero-banner,.testimonials,.container,.advantages-block,.advantages-number,.testimonial{
@@ -100,7 +100,7 @@
     top: 5px;
 }
 
-#logo:hover{
+.icon:hover{
     cursor: pointer;
 }
 
@@ -494,4 +494,6 @@ footer .icons{
     }
 
 }
+
+
 
