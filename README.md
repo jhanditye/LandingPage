@@ -29,9 +29,9 @@ Users should be able to:
 
 Important Checks 
 - [x] Is the webiste accessible? (Check)
-- Is the final user interface easy to interact with? (Check)
-- Has all code been refactored to ease maintanence and readability? (Check)
-- Have CSS adjustments been made to the code for different browsers?
+- [x] Is the final user interface easy to interact with? (Check)
+- [x] Has all code been refactored to ease maintanence and readability? (Check)
+- [] Have CSS adjustments been made to the code for different browsers?
 
 
 ### Screenshot
