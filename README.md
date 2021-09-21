@@ -28,7 +28,7 @@ Users should be able to:
   - The email address is not formatted correctly
 
 Important Checks 
--Is the webiste accessible? (Check)
+- Is the webiste accessible? (Check)
 - Is the final user interface easy to interact with? (Check)
 - Has all code been refactored to ease maintanence and readability? (Check)
 - Have CSS adjustments been made to the code for different browsers?
@@ -54,9 +54,7 @@ There are screenshots of both the mobile and desktop designs for this website in
 
 ### What I learned
 
-1.A hamburger menu is quite simple to make:
-
-Instead of using three spans and movinga round with absolute position, instead make one line using a <div></div> and use the :: before and ::after pseudoclasses to generate the other two lines. They can be placed in the correct position. The animation for turning the hamburger into a cross is also thenn simplified.
+1.A hamburger menu is quite simple to make: Instead of using three spans and movinga round with absolute position, instead make one line using a <div></div> and use the :: before and ::after pseudoclasses to generate the other two lines. They can be placed in the correct position. The animation for turning the hamburger into a cross is also thenn simplified.
 
 2. The mobile first approach is very rewarding: very little actual has to be changed to create a desktop version of the page once the mobile version has been made. 
 
