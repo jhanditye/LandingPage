@@ -28,7 +28,7 @@ Users should be able to:
   - The email address is not formatted correctly
 
 Important Checks 
--[x] Is the webiste accessible? (Check)
+- [x] Is the webiste accessible? (Check)
 - Is the final user interface easy to interact with? (Check)
 - Has all code been refactored to ease maintanence and readability? (Check)
 - Have CSS adjustments been made to the code for different browsers?
