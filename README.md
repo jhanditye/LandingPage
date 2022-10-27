@@ -1,3 +1,9 @@
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
 # Frontend Mentor - Manage landing page 
 
 Hey, welcome to this repo. This is a solution to the Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Around this time, after visting the Apple website,  I had been curious as to how to make a websites look nice, approachable and user friendly. This project is an attempt to explore some of the ideas in web development. 
