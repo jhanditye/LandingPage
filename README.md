@@ -1,6 +1,9 @@
 # Frontend Mentor - Manage landing page 
 
-Hey, welcome to this repo. This is a solution to the Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).
+Hey, welcome to this repo. This is a solution to the Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Around this time, after visting the Apple website,  I had been curious as to how to make a websites look nice, approachable and user friendly. This project is an attempt to explore some of the ideas in web development. 
+
+## Focus
+The main focus of this particualr project is teh mobile-first perspective of web development. This perspective inclines developers to create applications and websites on mobile first since most people are opening website pages and apps on their phone. 
 
 ## Table of contents
 
@@ -40,7 +43,7 @@ There are screenshots of both the mobile and desktop designs for this website in
 ### Links
 
 - Live Site URL: https://jhanditye.github.io./LandingPage/
-
+(if this link is still valid)
 
 ##  My Process
 
@@ -54,14 +57,13 @@ There are screenshots of both the mobile and desktop designs for this website in
 
 ### What I learned
 
-1. A hamburger menu is quite simple to make: Instead of using three spans and movinga round with absolute position, instead make one line using a <div></div> and use the :: before and ::after pseudoclasses to generate the other two lines. They can be placed in the correct position. The animation for turning the hamburger into a cross is also then simplified.
+1. A hamburger menu is quite simple to make: Instead of using three spans and moving around with absolute position, instead make one line using a <div></div> and use the :: before and ::after pseudoclasses to generate the other two lines. They can be placed in the correct position. The animation for turning the hamburger into a cross is also then simplified.
 2. The mobile first approach is very rewarding: very little actual has to be changed to create a desktop version of the page once the mobile version has been made. 
 
 ### Continued development
 
 1. Making a mobile-friendly carousel which responsds to left and right swipes.
 2. Making a simple clickable carousel for the testimonial section in the desktop design.
-
 
 ## Author
 Feel free to contact me if you'd like to work on this with me or just want to talk about web development in general!
